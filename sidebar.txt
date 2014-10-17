@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emb:home|Door43 (emb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emb|d43-emb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emb/archive/master.zip|d43-emb.zip]]
+
+**Recent Changes**
+{{changes>ns = emb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emb|Ethnologue data]]
+
